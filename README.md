@@ -16,7 +16,9 @@ We developed a WebApp by using Flask, HTML, CSS, Django, JavaScript, Machine Lea
 
 Moreover, we added extra functionality in Application Improvement by adding Sentiment analysis using Machine Learning.
 
-## Demo
+## Demo Video
+
+Note: Just Click on the image below and you will be redirected to YouTube.
 
 [![AirGliders](https://img.youtube.com/vi/C_mwLWJ5M4A/0.jpg)](https://www.youtube.com/watch?v=C_mwLWJ5M4A)
 
