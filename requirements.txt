@@ -1,0 +1,10 @@
+django==3.2.3
+djangorestframework
+markdown
+django-filter
+pyttsx3
+pyaudio
+speechrecognition
+OpenAI
+django-rest-swagger
+chatterbot==1.0.4

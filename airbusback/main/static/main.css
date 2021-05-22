@@ -1,0 +1,50 @@
+
+  body{
+    overflow-x: hidden;
+  }
+  #drager2 {
+    
+    width: 60px;
+    height: 60px;
+    background-color: rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:5px;
+  }
+  #drager {
+    position: fixed;
+    bottom: 400px;
+    right: 100px;
+    width: 40px;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+
+  }
+
+  #widgets{
+      width: 300px;
+      height: 150px;
+      display: none;
+      background-color: white;
+      border: 2px solid black;
+      
+  }
+  .main{
+    position: fixed;
+    bottom: 400px;
+    right: 100px;
+  }
+  a:link {
+    text-decoration: none;
+    color:black;
+  }
