@@ -20,7 +20,14 @@ Moreover, we added extra functionality in Application Improvement by adding Sent
 
 Note: Just Click on the image below and you will be redirected to YouTube.
 
-[![AirGliders](https://img.youtube.com/vi/C_mwLWJ5M4A/0.jpg)](https://www.youtube.com/watch?v=C_mwLWJ5M4A)
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=C_mwLWJ5M4A">
+     <img 
+      src="https://img.youtube.com/vi/C_mwLWJ5M4A/0.jpg" 
+      alt="AirGliders" 
+      style="width:100%;">
+      </a>
+</div>
 
 ## How to run this Repo
 
